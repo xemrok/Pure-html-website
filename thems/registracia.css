@@ -1,0 +1,55 @@
+body{
+	background-color: #f2f2f2;
+}
+.tip
+{
+	color:#B0B0B0;
+}
+
+.field
+{
+	text-align: left;
+	width: 500px;
+	height: 40px;
+	font-size: 20px;
+}
+b
+{
+	color: #FF2400;
+}
+.hi
+{
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #ED760E;
+	color: white;
+	border-radius: 10px;
+	border-width: 1px;
+}
+.hi:hover
+{
+	color: #EDEDED;
+}
+.hi1
+{
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #49b8d3;
+	color: white;
+	border-radius: 10px;
+	border-width: 1px;
+}
+.hi1:hover
+{
+	color: #EDEDED;
+}
+form
+{
+	padding-top: 10%;
+	text-align: center;
+	font-size: 20px;
+}

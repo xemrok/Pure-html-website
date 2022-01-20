@@ -1,0 +1,94 @@
+/*Текст меню сайта*/
+.header_menu
+{ 
+	text-decoration: none; 
+	text-align: center;
+	color: #ffffff;
+	font-weight: lighter;
+	font-size: 16px;
+	cursor: pointer;
+}
+.header_menu:hover
+{
+	color: #E6E6E6;  
+}
+/*---------------------*/
+/*Текст заголовка Новостей*/
+.heder_news
+{
+	text-align: center;
+	/*vertical-align: bottom;*/
+	color: #ED760E;
+	/*text-shadow: 3px 3px 20px #ED760E;*/
+	font-size: 35px;
+	/*	font-style: italic;*/
+}
+/*---------------------*/
+ul.list /*Списки*/
+{
+	list-style-type: none;
+	color: #ED760E;
+	padding-left: 2%;
+	/*text-shadow: 2px 2px 20px #FAEEDD;*/
+
+}
+li:before
+{
+	color: black; 
+	content: "–"; 
+	padding-right: 8px; 
+}
+
+.headline /*Заголовки статей*/
+{
+	text-align: center;
+	font-size: 30px;
+	color: 	#ED760E;
+}
+/*Боковое меню*/
+.best
+{
+	vertical-align: top;
+	text-align: center;
+	color:  #49b8d3;
+	font-size: 27px;
+
+}
+/*Ссылки в боковом меню */
+.link
+{
+	vertical-align: top;
+	text-align: center;
+	color: #ED760E;
+	font-size: 18px;
+	line-height: 150%;
+}
+/*Ссылки на статьи с главной страницы*/
+.link2
+{
+	color: #49b8d3;
+	line-height: 150%;
+	font-size: 12px;
+	list-style-type: square;
+	padding-left: 4px;
+}
+/*Основной текст статей*/
+.textf
+{
+	text-indent: 40px;
+	text-align: justify;
+}
+
+.cotacts
+{
+	font-size: 20px;
+	color: #575757;
+	text-align: center;
+}
+.podval
+{
+	color: #969696;
+	text-align: center;
+	font-size: 12px;
+	padding-top: 10px;
+}
